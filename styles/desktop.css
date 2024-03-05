@@ -1,0 +1,23 @@
+body {
+  padding: 124px 352px;
+  background-color: var(--color-neutral-eggshell);
+}
+
+.image-container {
+  padding: 40px 40px 0;
+  border-radius: 24px 24px 0 0;
+  background-color: var(--color-neutral-white);
+}
+
+img {
+  border-radius: 12px;
+}
+
+main {
+  border-radius: 0 0 24px 24px;
+  padding: 40px;
+}
+
+.attribution {
+  margin-top: 40px;
+}
