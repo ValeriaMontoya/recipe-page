@@ -81,14 +81,6 @@ h2 {
   font-size: var(--font-size-heading-m);
 }
 
-h3 {
-  color: var(--color-primary-dark-raspberry);
-  font-family: var(--font-family-heading-s);
-  font-size: var(--font-size-heading-s);
-  font-weight: 600;
-  line-height: 100%;
-}
-
 span {
   color: var(--color-neutral-wenge-brown);
   font-weight: 400;
@@ -96,6 +88,14 @@ span {
 
 hr {
   border: 1px solid var(--color-neutral-light-grey);
+}
+
+.subtitle {
+  color: var(--color-primary-dark-raspberry);
+  font-family: var(--font-family-heading-s);
+  font-size: var(--font-size-heading-s);
+  font-weight: 600;
+  line-height: 100%;
 }
 
 .flex-container {
